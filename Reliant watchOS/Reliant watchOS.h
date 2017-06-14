@@ -15,5 +15,3 @@ FOUNDATION_EXPORT double Reliant_watchOSVersionNumber;
 FOUNDATION_EXPORT const unsigned char Reliant_watchOSVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Reliant_watchOS/PublicHeader.h>
-
-
